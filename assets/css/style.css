@@ -1927,7 +1927,7 @@ Service Section end
 .portfolio__block__one .inner-box img {
   max-width: 100%;
   width: 100%;
-  height: 30rem;
+  height: 100%;
   vertical-align: top;
 }
 .portfolio__block__one .inner-box * {
